@@ -14,3 +14,7 @@
 # Inicializar projeto
 
 * npm start
+
+# Definindo porta
+
+* json-server --watch db.json --port3001
